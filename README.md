@@ -1,7 +1,6 @@
 # Cash-Flow-Forecasting
 Challenge in collaboration with LUISS and one of Italy's most important energy companies
 
-The project is not yet finalised, it will be added when the work is completed!
 
 ## Affinity Analysis (Market Basket Analysis)
 Market Basket Analysis (MBA) is an accidental transaction pattern that purchasing some products will affect the purchasing of other products. MBA is used to predict what products that customer interested in. It’s a kind of knowledge discovery in data (KDD) and this technique can be applied in various fields of work.
